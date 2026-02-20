@@ -51,7 +51,7 @@ The dashboard provides a 360° view of the student lifecycle — from **lead gen
 
 ### 📸 Screenshot:
 
-![Admissions Analysis](dashboard_images/Admissions Analysis.png)
+![Admissions Analysis](dashboard_images/admissions_analysis.png)
 
 ---
 
@@ -71,7 +71,7 @@ The dashboard provides a 360° view of the student lifecycle — from **lead gen
 
 ### 📸 Screenshot:
 
-![Executive Performance](dashboard_images/Executive Performance & Placement Overview.png)
+![Executive Performance](dashboard_images/executive_performance_placement.png)
 
 ---
 
@@ -89,7 +89,7 @@ The dashboard provides a 360° view of the student lifecycle — from **lead gen
 
 ### 📸 Screenshot:
 
-![Campaign Performance](dashboard_images/Campaign Performance Dashboard.png)
+![Campaign Performance](dashboard_images/campaign_performance_dashboard.png)
 
 ---
 
