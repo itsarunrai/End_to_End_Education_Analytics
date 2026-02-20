@@ -34,24 +34,21 @@ The dashboard provides a 360° view of the student lifecycle — from **lead gen
 
 ---
 
-## 🟢 Page 1: Admissions & Marketing Performance
+## 🟢 Page 1: Source & Cost Optimization Analysis
 
 ### Key KPIs:
-- Total Leads
-- Total Admissions
-- Total Cost
-- Cost Per Lead
-- Conversion Rate %
+- Fact Total Admissions
+- Average Cost
+- Lowest Cost Source
+- Best Source Name
 
 ### Visual Insights:
-- Best Performing Campaign
-- Cost Distribution by Source
-- Growth Trend (Year-wise)
-- Best Lead Source
+- Admissions by Source
+- Cost Per Admission by Source
 
 ### 📸 Screenshot:
 
-![Admissions Analysis](dashboard_images/admissions_analysis.png)
+![Campaign Performance](dashboard_images/campaign_performance_dashboard.png)
 
 ---
 
@@ -75,21 +72,24 @@ The dashboard provides a 360° view of the student lifecycle — from **lead gen
 
 ---
 
-## 🟢 Page 3: Source & Cost Optimization Analysis
+## 🟢 Page 3: Admissions & Marketing Performance
 
 ### Key KPIs:
-- Fact Total Admissions
-- Average Cost
-- Lowest Cost Source
-- Best Source Name
+- Total Leads
+- Total Admissions
+- Total Cost
+- Cost Per Lead
+- Conversion Rate %
 
 ### Visual Insights:
-- Admissions by Source
-- Cost Per Admission by Source
+- Best Performing Campaign
+- Cost Distribution by Source
+- Growth Trend (Year-wise)
+- Best Lead Source
 
 ### 📸 Screenshot:
 
-![Campaign Performance](dashboard_images/campaign_performance_dashboard.png)
+![Admissions Analysis](dashboard_images/admissions_analysis.png)
 
 ---
 
